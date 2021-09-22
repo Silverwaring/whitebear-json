@@ -4,7 +4,7 @@
   "@type": "LocalBusiness",
   "name": "White Bear Studios - Recording Studio Manchester",
   "url": "https://www.whitebearstudios.co.uk/",
-  "telephone" : "+4474674352909",
+  "telephone" : "+447467435290",
   "sameAs": [
      "https://www.facebook.com/whitebearstudios/",
      "https://www.instagram.com/whitebearstudios/",
