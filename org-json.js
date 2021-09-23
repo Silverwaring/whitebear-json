@@ -21,6 +21,6 @@
      "postalCode": "M4 7JB",
      "addressCountry": "United Kingdom"
   },
-   "openingHours": "Mo 10:00-18:00 Tu 10:00-18:00 We 10:00-18:00 Th 10:00-19:00 Fr 10:00-18:00 Sa 10:00-18:00 Su 10:00-18:00"
+   "openingHours": "Mo 10:00-18:00 Tu 10:00-18:00 We 10:00-18:00 Th 10:00-18:00 Fr 10:00-18:00 Sa 10:00-18:00 Su 10:00-18:00"
 }
 </script>
